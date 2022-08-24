@@ -1,9 +1,11 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Ji%20eun%20Lee&desc=%20Hi~%20Nice%20to%20meet%20U%20:)%20&fontSize=80&fontAlign=70&animation=twinkling&rotate=5&stroke=AFB4FF&strokeWidth=3&descAlign=80&descAlignY=65" />
 
 <!--
 **ijieun/ijieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
