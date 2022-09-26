@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9C9EFE&&fontColor=FFFFFF&height=300&section=header&text=Ji%20eun%20Lee&desc=%20Hi~%20Nice%20to%20meet%20U%20:)%20&fontSize=80&fontAlign=70&animation=twinkling&rotate=5&stroke=B1E1FF&strokeWidth=3&descAlign=80&descAlignY=65" />
 
+<div align="center">
+
 ## Studying   ✏️
 
 
@@ -26,3 +28,4 @@
    ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
    
    
+</div>
