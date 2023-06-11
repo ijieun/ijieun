@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C9EFE&&fontColor=FFFFFF&height=200&section=header&text=Ji%20eun%20Lee&desc=%20Nice%20to%20meet%20U%20:)%20&fontSize=80&fontAlign=70&animation=twinkling&stroke=B1E1FF&strokeWidth=3&descAlign=80&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9C9EFE&&fontColor=FFFFFF&height=200&section=header&text=JI%20EUN%20LEE&desc=%20Just%20do%20it%20!%20&fontSize=80&fontAlign=70&animation=twinkling&stroke=B1E1FF&strokeWidth=3&descAlign=80&descAlignY=65" />
 
 
   
