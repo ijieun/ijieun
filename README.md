@@ -15,10 +15,13 @@
     (22.09 - 23.08) Google Developer Student Club MJU FE 1기
     (23.03 - 23.08) MJU UMC
     
-    
+
+<b>⭐ Tech Blog:  </b>     https://jini77u.vercel.app
+
 <br/><br/><br/><br/>   
 
 <div align="center">   
+
   
   
   ## 💡 Stack & Study   💡
