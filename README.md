@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9C9EFE&&fontColor=FFFFFF&height=200&section=header&text=I%20JI%20EUN&desc=%20TRYING&fontSize=50&fontAlign=80&animation=twinkling&stroke=B1E1FF&strokeWidth=3&descAlign=85&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9C9EFE&&fontColor=FFFFFF&height=100&section=header&text=I%20JI%20EUN&desc=%20TRYING&fontSize=45&0&animation=twinkling&stroke=B1E1FF&strokeWidth=2.2&descAlign=85&descAlignY=55" />
 
 
   
   <br/><br/>
   <div align="center">    
 
-  ## 📌 Work experience    📌
+  ### 📌 Work experience    📌
   </div>   
      
     
@@ -24,7 +24,7 @@
 
   
   
-  ## 💡 Stack & Study   💡
+   ### 💡 Stack & Study   💡
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF">
@@ -39,7 +39,7 @@
   <br/><br/><br/><br/>
 
 
-  ##  🛠 Tools   🛠
+  ### 🛠 Tools   🛠
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF">
@@ -58,6 +58,6 @@
  
 <br/><br/>
    
-   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
    
 </div>
