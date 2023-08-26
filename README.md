@@ -13,7 +13,7 @@
     (22.05 - 22.07) 특수학교 인공지능(AI) 마중물학교 튜터 
     (22.03 - 22.12) 멋쟁이사자처럼 at 명지대학교 FE Track 10기
     (22.09 - 23.08) Google Developer Student Club MJU FE 1기
-    (23.03 - 23.08) MJU UMC
+    (23.03 - 23.08) MJU UMC FE
     
 
 <b>⭐ Tech Blog:  </b>     https://jini77u.vercel.app
