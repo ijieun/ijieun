@@ -14,6 +14,7 @@
     (22.03 - 22.12) 멋쟁이사자처럼 at 명지대학교 FE Track 10기
     (22.09 - 23.08) Google Developer Student Club MJU FE 1기
     (23.03 - 23.08) MJU UMC FE
+    (23.08 - 23.12) 명지대학교 MAP 프로그램 신입생 멘토
     
 
 <b>⭐ Tech Blog:  </b>     https://jini77u.vercel.app
