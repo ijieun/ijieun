@@ -5,16 +5,16 @@
   <br/><br/>
   <div align="center">    
 
-  ### 📌 Work experience    📌
+  ####  Work experience    📌
   </div>   
      
     
-    (22.04 - 22.05) 2022 상반기 찾아가는 소프트웨어교육기부단 
+    (22.04 - 22.05) 2022 상반기 찾아가는 소프트웨어교육기부단 봉사
     (22.05 - 22.07) 특수학교 인공지능(AI) 마중물학교 튜터 
     (22.03 - 22.12) 멋쟁이사자처럼 at 명지대학교 FE Track 10기
     (22.09 - 23.08) Google Developer Student Club MJU FE 1기
-    (23.03 - 23.08) MJU UMC FE
-    (23.08 - 23.12) 명지대학교 MAP 프로그램 신입생 멘토
+    (23.03 - 23.08) MJU UMC FE 4기
+    (23.08 - 23.12) 명지대학교 MAP 신입생 멘토링 프로그램 멘토
     
 
 <b>⭐ Tech Blog:  </b>     https://jini77u.vercel.app
@@ -25,7 +25,7 @@
 
   
   
-   ### 💡 Stack  💡
+   ####  Stack  💡
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">-->
 <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"> -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF">
@@ -41,7 +41,7 @@
   <br/><br/><br/><br/>
 
 
-  ### 🛠 Tools   🛠
+  ####  Tools   🛠
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF">
