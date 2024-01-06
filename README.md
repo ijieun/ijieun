@@ -16,7 +16,7 @@
     (23.03 - 23.08) MJU UMC FE 4기
     (23.08 - 23.12) 2023-2 MJU MAP 신입생 멘토링 프로그램 멘토
     
-
+⭐ Contact me:      jul061055@gmail.com     
 ⭐ Tech Blog:      https://jini77u.vercel.app
 
 <br/><br/><br/>   
