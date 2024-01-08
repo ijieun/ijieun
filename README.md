@@ -58,8 +58,7 @@
 ####  Contact me   
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jul061055@gmail.com)](mailto:jul061055@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/jieunlee-b8b042284)](www.linkedin.com/in/jieunlee-b8b042284)
-
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jieunlee-b8b042284](https://www.linkedin.com/in/jieunlee-b8b042284)/)](https://www.linkedin.com/in/jieunlee-b8b042284/)
   <br/><br/><br/><br/>
 
    ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
