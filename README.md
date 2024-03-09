@@ -15,7 +15,7 @@
     (23.03 - 23.08) [UMC] To-do 일정 관리 웹 서비스 프론트 개발
     (23.08 - 23.12) 2023-2 MJU MAP 신입생 멘토링 프로그램 멘토
      
-[⭐ more Info](https://www.notion.so/jini77u/Portfolio-dbc682ed59a64890acd2acdc59a84866)     
+⭐ [more Info !](https://www.notion.so/jini77u/Portfolio-dbc682ed59a64890acd2acdc59a84866)     
     
 <br/><br/><br/>   
 
