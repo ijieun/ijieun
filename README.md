@@ -7,7 +7,7 @@
 
   ####  Work      📌
        
-[My portfolio](https://www.notion.so/jini77u/Portfolio-dbc682ed59a64890acd2acdc59a84866)     
+[My portfolio](https://jini77u.notion.site/040d6066607347d39b92f175abb2f3d5?pvs=4)     
     
   </div>   
 
