@@ -21,7 +21,7 @@
 
 | 기간              | 내용               |
 |-----------------|----------------------|
-|2025.09 - 2025.10 (2개월)  | SeSac - SAP ERP 도입 프로젝트 개발 |
+|2025.09 - 2025.10 (2개월)  | SeSac 5기 - 시토피아 SAP ERP 도입 프로젝트 개발 |
 | 2023.08 - 2023.12 (5개월)  |MJU MAP 신입생 멘토링 프로그램 학부 멘토     | 
 | 2022.04 - 2022.08 (5개월) |2022 상반기 찾아가는 SW교육기부단 : 특수학교 교육봉사  | 
 
@@ -32,7 +32,7 @@
 
    ####  Stack  💡 
  
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+<img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 
 
   <br/>   
@@ -45,7 +45,7 @@
 | 취득날짜              | 내용               |
 |-----------------|----------------------|
 | 2024.02.14. | OPIc(EN) Intermediate High      |
-| 2025.05.31 | SQLD      |
+| 2025.05.31. | SQLD      |
 
   <br/><br/>
 
