@@ -11,8 +11,6 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jul061055@gmail.com)](mailto:jul061055@gmail.com)
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jieunlee-b8b042284](https://www.linkedin.com/in/jieunlee-b8b042284)/)](https://www.linkedin.com/in/jieunlee-b8b042284/)
   
-➡️  [My portfolio](https://jinilee55.notion.site/Portfolio-040d6066607347d39b92f175abb2f3d5?pvs=4)     
-
 
 <br/><br/><br/>   
 
