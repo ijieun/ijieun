@@ -9,7 +9,6 @@
   ####  Contact me    📌
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jul061055@gmail.com)](mailto:jul061055@gmail.com)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[www.linkedin.com/in/지은-이-b8b042284](www.linkedin.com/in/지은-이-b8b042284)/)](www.linkedin.com/in/지은-이-b8b042284)
   
 
 <br/><br/><br/>   
