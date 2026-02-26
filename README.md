@@ -42,8 +42,10 @@
 
 | 취득날짜              | 내용               |
 |-----------------|----------------------|
-| 2024.02.14. | OPIc(EN) Intermediate High      |
-| 2025.05.31. | SQLD      |
+| 2025.12. | SAP FI Certification      |
+| 2025.11. | SAP ABAP Certification      |
+| 2024.02. | OPIc(EN) Intermediate High      |
+| 2025.05. | SQLD      |
 
   <br/><br/>
 
